@@ -10,11 +10,6 @@ footer.innerHTML = `
                     <a href="mailto:contact@blackguard.bg"
                         class="hover:underline text-zinc-200 mt-1 block text-lg">contact@blackguard.bg</a>
                 </div>
-                <div class="">
-                    <h2 class="text-white uppercase font-medium text-xl">Press & Public Relations</h2>
-                    <a href="mailto:contact@blackguard.bg"
-                        class="hover:underline text-zinc-200 mt-1 block text-lg">contact@blackguard.bg</a>
-                </div>
             </div>
         </div>
         <div class="flex items-center max-w-7xl w-full mx-auto py-8 justify-between gap-5 md:flex-row flex-col">

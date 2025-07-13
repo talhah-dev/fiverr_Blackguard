@@ -10,11 +10,6 @@ footer.innerHTML = `
                     <a href="mailto:info@dgrgroup.net"
                         class="hover:underline text-zinc-200 mt-1 block text-lg">info@dgrgroup.net</a>
                 </div>
-                <div class="">
-                    <h2 class="text-white uppercase font-medium text-xl">Presse- und Öffentlichkeitsarbeit</h2>
-                    <a href="mailto:info@dgrgroup.net"
-                        class="hover:underline text-zinc-200 mt-1 block text-lg">info@dgrgroup.net</a>
-                </div>
             </div>
         </div>
         <div class="flex items-center max-w-7xl w-full mx-auto py-8 justify-between gap-5 md:flex-row flex-col">
