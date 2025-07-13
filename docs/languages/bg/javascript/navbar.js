@@ -23,7 +23,7 @@ dynamic_navbar.innerHTML = `
                 <div class="flex items-center justify-center gap-2 relative">
                     <div id="language" class="cursor-pointer flex items-center gap-1">
                         <img src="/docs/assets/images/global.svg" class="opacity-80 h-6" alt="">
-                        <span class="font-medium uppercase">DE</span>
+                        <span class="font-medium uppercase">BG</span>
                     </div>
 
                     <div id="langDropdown" class="absolute fadeIn top-14 w-20 -left-2 glass p-3 rounded-xl shadow-md hidden">
