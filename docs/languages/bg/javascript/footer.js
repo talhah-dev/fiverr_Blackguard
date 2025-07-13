@@ -7,8 +7,8 @@ footer.innerHTML = `
             <div class="flex md:items-center md:justify-center mt-5 md:mt-0 md:gap-16 gap-5 md:flex-row flex-col">
                 <div class="">
                     <h2 class="text-white uppercase font-medium text-xl">Kontakt</h2>
-                    <a href="mailto:info@dgrgroup.net"
-                        class="hover:underline text-zinc-200 mt-1 block text-lg">info@dgrgroup.net</a>
+                    <a href="mailto:contact@blackguard.bg"
+                        class="hover:underline text-zinc-200 mt-1 block text-lg">contact@blackguard.bg</a>
                 </div>
             </div>
         </div>
