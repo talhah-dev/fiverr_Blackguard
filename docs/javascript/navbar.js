@@ -61,7 +61,7 @@ dynamic_navbar.innerHTML = `
                         class="hover:text-opacity-80 overflow-hidden transition-all duration-500 border rounded-lg w-full block py-1">EN
                     </a>
                 </li>
-                <li><a href="/docs/languages/de/index.html"
+                <li><a href="/docs/languages/bg/index.html"
                         class="hover:text-opacity-80 overflow-hidden transition-all duration-500 border rounded-lg w-full block py-1">BG</a>
                 </li>
             </ul>
