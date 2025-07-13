@@ -44,7 +44,7 @@ input:user-invalid {
 }
 
 .scope{
-    background: linear-gradient(rgba(0, 0, 0, 0.171),rgba(0, 0, 0, 0.226)),url(/docs/assets/images/scope1.jpg) no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.171),rgba(0, 0, 0, 0.226)),url(/docs/assets/images/scop.jpg) no-repeat center center/cover;
     height: 100vh;
 }
 
