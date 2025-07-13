@@ -15,9 +15,8 @@ footer.innerHTML = `
         <div class="flex items-center max-w-7xl w-full mx-auto py-8 justify-between gap-5 md:flex-row flex-col">
             <p class="text-zinc-200">Copyright © <span id="copyright"></span> DGR Consult Invest GmbH Alle Rechte vorbehalten</p>
             <div class="flex flex-wrap items-center gap-5">
-                <a href="/docs/languages/de/privacy-policy.html" class="hover:underline text-zinc-200 block ">Datenschutzrichtlinie</a>
-                <a href="/docs/languages/de/imprint.html" class="hover:underline text-zinc-200 block ">Impressum</a>
-                <a href="/docs/languages/de/careers.html" class="hover:underline text-zinc-200 block ">Karriere</a>
+                <a href="#" class="hover:underline text-zinc-200 block ">Datenschutzrichtlinie</a>
+                <a href="#" class="hover:underline text-zinc-200 block ">Impressum</a>
                 <a href="https://www.linkedin.com/company/dgr-consult-invest/" class="hover:underline text-zinc-200 block "><i class="fa-brands text-xl fa-linkedin"></i></a>
 
             </div>
