@@ -4,27 +4,22 @@ dynamic_navbar.innerHTML = `
     <nav class="fixed navbar md:top-6 top-4 px-4 left-0 w-full z-40 transition-all duration-300">
         <div data-aos="fade-down"
             class="max-w-7xl mx-auto glass rounded-2xl flex justify-between items-center w-full md:p-5 p-3 md:h-28 h-20">
-            <a href="/docs/languages/de/index.html" class="flex items-center justify-center lg:justify-start">
-                <img src="/docs/assets/images/logo.png" class="md:h-20 h-16" alt="logo">
+            <a href="/docs/languages/bg/index.html" class="flex items-center justify-center lg:justify-start">
+                <img src="/docs/assets/images/logo.png" class="md:h-20 h-16 brightness-0" alt="logo">
             </a>
             <div class="md:flex hidden items-center gap-10">
                 <div class="md:flex items-center gap-10 hidden">
                     <ul class="md:flex hidden items-center text-zinc-800 font-medium uppercase gap-10">
-                        <li><a href="/docs/languages/de/index.html" class="hover:text-opacity-80 transition-all duration-500">Heim </a>
+                        <li><a href="/docs/languages/bg/index.html" class="hover:text-opacity-80 transition-all duration-500">дом </a>
                         </li>
-                        <li><a href="/docs/languages/de/scope.html" class="hover:text-opacity-80 transition-all duration-500">Umfang</a>
+                        <li><a href="/docs/languages/bg/scope.html" class="hover:text-opacity-80 transition-all duration-500">обхват</a>
                         </li>
-                        <li><a href="/docs/languages/de/philosophy.html" class="hover:text-opacity-80 transition-all duration-500">Philosophie</a>
-                        </li>
-                        <li><a href="/docs/languages/de/industries.html" class="hover:text-opacity-80 transition-all duration-500">Branchen</a>
+                        <li><a href="/docs/languages/bg/approach.html" class="hover:text-opacity-80 transition-all duration-500">Подход</a>
                         </li>
                     </ul>
                 </div>
             </div>
             <div class="md:flex items-center justify-center gap-4 hidden">
-                <a href="/docs/languages/de/careers.html"
-                    class="md:block hidden transition-all duration-500 hover:opacity-80 px-6 py-1.5 uppercase rounded-lg text-white bg-[#183385]">Karriere</a>
-                <div class="w-0.5 bg-zinc-500 rounded-full h-6"></div>
                 <div class="flex items-center justify-center gap-2 relative">
                     <div id="language" class="cursor-pointer flex items-center gap-1">
                         <img src="/docs/assets/images/global.svg" class="opacity-80 h-6" alt="">
@@ -34,7 +29,7 @@ dynamic_navbar.innerHTML = `
                     <div id="langDropdown" class="absolute fadeIn top-14 w-20 -left-2 glass p-3 rounded-xl shadow-md hidden">
                         <ul class="space-y-3">
     <li class="cursor-pointer hover:opacity-60 transition-all duration-500"><a href="/index.html" class="block w-full">EN</a></li>
-    <li class="cursor-pointer hover:opacity-60 transition-all duration-500"><a href="/docs/languages/de/index.html" class="block w-full">DE</a></li>
+    <li class="cursor-pointer hover:opacity-60 transition-all duration-500"><a href="/docs/languages/bg/index.html" class="block w-full">BG</a></li>
                         </ul>
                     </div>
                 </div>
@@ -51,13 +46,11 @@ dynamic_navbar.innerHTML = `
         </div>
         <div class="p-6">
             <ul class="flex relative z-50 text-zinc-800 font-medium uppercase flex-col gap-7">
-              <li><a href="/docs/languages/de/index.html" class="hover:text-opacity-80 transition-all duration-500">Heim </a>
+              <li><a href="/docs/languages/bg/index.html" class="hover:text-opacity-80 transition-all duration-500">дом </a>
                         </li>
-                        <li><a href="/docs/languages/de/scope.html" class="hover:text-opacity-80 transition-all duration-500">Umfang</a>
+                        <li><a href="/docs/languages/bg/scope.html" class="hover:text-opacity-80 transition-all duration-500">обхват</a>
                         </li>
-                        <li><a href="/docs/languages/de/philosophy.html" class="hover:text-opacity-80 transition-all duration-500">Philosophie</a>
-                        </li>
-                        <li><a href="/docs/languages/de/industries.html" class="hover:text-opacity-80 transition-all duration-500">Branchen</a>
+                        <li><a href="/docs/languages/bg/approach.html" class="hover:text-opacity-80 transition-all duration-500">Подход</a>
                         </li>
             </ul>
             <ul
@@ -66,12 +59,10 @@ dynamic_navbar.innerHTML = `
                         class="hover:text-opacity-80 overflow-hidden transition-all duration-500 border rounded-lg w-full block py-1">EN
                     </a>
                 </li>
-                <li><a href="/docs/languages/de/index.html"
-                        class="hover:text-opacity-80 overflow-hidden transition-all duration-500 border rounded-lg w-full block py-1">DE</a>
+                <li><a href="/docs/languages/bg/index.html"
+                        class="hover:text-opacity-80 overflow-hidden transition-all duration-500 border rounded-lg w-full block py-1">BG</a>
                 </li>
             </ul>
-            <a href="/docs/languages/de/careers.html"
-                class=" block text-nowrap transition-all duration-500 hover:opacity-80 px-6 py-3 uppercase rounded-lg text-white bg-[#183385] text-center mt-3">Karriere</a>
         </div>
     </div>
 `

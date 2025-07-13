@@ -1,6 +1,6 @@
 const footer = document.getElementById('footer')
 footer.innerHTML = `
-    <footer class="bg-[#122251] px-5 ">
+    <footer class="bg-zinc-900 px-5 ">
         <div data-aos="fade-up"
             class="flex md:items-center items-start max-w-7xl w-full mx-auto md:pt-32 pt-20 pb-10 border-b border-zinc-400 justify-start md:justify-between gap-5 md:flex-row flex-col">
             <div class=""></div>

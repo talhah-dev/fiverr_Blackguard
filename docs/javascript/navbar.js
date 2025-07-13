@@ -28,7 +28,7 @@ dynamic_navbar.innerHTML = `
 
                     <div id="langDropdown" class="absolute fadeIn top-14 w-20 -left-2 glass p-3 rounded-xl shadow-md hidden">
                         <ul class="space-y-3">
-<li class="cursor-pointer hover:opacity-60 transition-all duration-500"><a href="/docs/languages/de/index.html"
+<li class="cursor-pointer hover:opacity-60 transition-all duration-500"><a href="/docs/languages/bg/index.html"
         class="block w-full">BG</a></li>
 <li class="cursor-pointer hover:opacity-60 transition-all duration-500"><a href="/index.html"
         class="block w-full">EN</a></li>
@@ -65,8 +65,6 @@ dynamic_navbar.innerHTML = `
                         class="hover:text-opacity-80 overflow-hidden transition-all duration-500 border rounded-lg w-full block py-1">DE</a>
                 </li>
             </ul>
-            <a href="/careers.html"
-                class=" block text-nowrap transition-all duration-500 hover:opacity-80 px-6 py-3 uppercase rounded-lg text-white bg-[#183385] text-center mt-3">Careers</a>
         </div>
     </div>
 `
